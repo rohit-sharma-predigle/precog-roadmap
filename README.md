@@ -19,13 +19,13 @@
 
 #### TICKET-001
 
-**Summary:** Create end-to-end architecture and execution flow document
+**Summary:** Create end-to-end installation, deployment, architecture and execution flow document
 
 **Issue Type:** Story
 
 **Epic Link:** EPIC-01
 
-**Description:** Produce a single-page and a detailed architecture document and diagram that explains how a run moves through API → messaging → dispatcher → durable queue → worker → processor. Include component boundaries, data contracts, correlation fields, and lifecycle states.
+**Description:** Produce a single-page and a detailed architecture document and diagram that explains how to setup everything locally, how a run moves through API → messaging → dispatcher → durable queue → worker → processor.
 
 **Acceptance Criteria:**
 * Diagram (PNG/SVG) and markdown doc exist in repo.
