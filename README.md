@@ -109,7 +109,7 @@
 
 #### TICKET-005
 
-**Summary:** Integrate structured logging, tracing and metrics (via OpenTelemetry) are baked into the product
+**Summary:** Integrate structured logging, tracing and metrics (via OpenTelemetry) into the product
 
 **Issue Type:** Story
 
