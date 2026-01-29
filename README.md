@@ -41,7 +41,7 @@
 
 #### TICKET-002
 
-**Summary:** Standardize local Docker developer environment (docker-compose + README)
+**Summary:** Standardize local developer environment in Docker (docker-compose + README)
 
 **Issue Type:** Task
 
@@ -50,6 +50,7 @@
 **Description:** Provide a single `docker-compose.yml` and README which boots API, local kafka, a worker, and a sample processor for local debugging.
 
 **Acceptance Criteria:**
+
 * `docker-compose up` boots all services and a sample run can be executed locally.
 * README includes troubleshooting and debugging steps.
 * Devs can run a sample job and view logs.
@@ -206,7 +207,7 @@
 
 #### TICKET-009
 
-**Summary:** Select and POC durable job queue (Redis Streams / RabbitMQ / SQS / DB-backed)
+**Summary:** Select and POC durable job queue (Redis Streams / RabbitMQ / Pub-Sub / DB-backed)
 
 **Issue Type:** Spike
 
