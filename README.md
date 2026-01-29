@@ -33,7 +33,6 @@
 
 **Sprint:** Sprint 1
 
-**Story Points:** 5
 
 **Labels:** architecture, docs
 
@@ -58,7 +57,6 @@
 
 **Sprint:** Sprint 1
 
-**Story Points:** 3
 
 **Labels:** dev-dx, docker
 
@@ -80,7 +78,6 @@
 
 **Sprint:** Sprint 1
 
-**Story Points:** 2
 
 **Labels:** ci, quality
 
@@ -102,7 +99,6 @@
 
 **Sprint:** Sprint 1
 
-**Story Points:** 3
 
 **Labels:** tests, ci
 
@@ -125,7 +121,6 @@
 
 **Sprint:** Sprint 1
 
-**Story Points:** 5
 
 **Labels:** observability, logging
 
@@ -151,7 +146,6 @@
 
 **Sprint:** Sprint 2
 
-**Story Points:** 3
 
 **Labels:** observability, spike
 
@@ -173,7 +167,6 @@
 
 **Sprint:** Sprint 2
 
-**Story Points:** 5
 
 **Labels:** metrics, tracing
 
@@ -195,7 +188,6 @@
 
 **Sprint:** Sprint 2
 
-**Story Points:** 5
 
 **Labels:** tests, integration
 
@@ -220,7 +212,6 @@
 
 **Sprint:** Sprint 3
 
-**Story Points:** 3
 
 **Labels:** spike, queue
 
@@ -242,7 +233,6 @@
 
 **Sprint:** Sprint 3
 
-**Story Points:** 8
 
 **Labels:** kafka, refactor
 
@@ -264,7 +254,6 @@
 
 **Sprint:** Sprint 3
 
-**Story Points:** 5
 
 **Labels:** cache, performance
 
@@ -290,7 +279,6 @@
 
 **Sprint:** Sprint 4
 
-**Story Points:** 8
 
 **Labels:** worker, queue
 
@@ -312,7 +300,6 @@
 
 **Sprint:** Sprint 4
 
-**Story Points:** 8
 
 **Labels:** containers, runtime
 
@@ -334,7 +321,6 @@
 
 **Sprint:** Sprint 4
 
-**Story Points:** 3
 
 **Labels:** images, ci
 
@@ -356,7 +342,6 @@
 
 **Sprint:** Sprint 4
 
-**Story Points:** 3
 
 **Labels:** db, api
 
@@ -382,7 +367,6 @@
 
 **Sprint:** Sprint 5
 
-**Story Points:** 5
 
 **Labels:** retries, dlq
 
@@ -405,7 +389,6 @@
 
 **Sprint:** Sprint 5
 
-**Story Points:** 5
 
 **Labels:** security, images
 
@@ -426,7 +409,6 @@
 
 **Sprint:** Sprint 5
 
-**Story Points:** 3
 
 **Labels:** tests, reliability
 
@@ -452,7 +434,6 @@
 
 **Sprint:** Sprint 6
 
-**Story Points:** 5
 
 **Labels:** deployment, ops
 
@@ -474,7 +455,6 @@
 
 **Sprint:** Sprint 6
 
-**Story Points:** 5
 
 **Labels:** scaling, ops
 
@@ -496,7 +476,6 @@
 
 **Sprint:** Sprint 6
 
-**Story Points:** 3
 
 **Labels:** perf, containers
 
@@ -519,7 +498,6 @@
 
 **Sprint:** Sprint 6
 
-**Story Points:** 3
 
 **Labels:** runbooks, ops
 
@@ -542,7 +520,6 @@
 
 **Sprint:** Sprint 6
 
-**Story Points:** 8
 
 **Labels:** pilot, ops
 
